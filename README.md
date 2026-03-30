@@ -1,5 +1,5 @@
 # Attack-heart-data
-Datos de personas con ataques al corazón en Francia aplicando varios filtros para su análisis
+Datos de personas con ataques al corazón en Francia aplicando varios filtros ataques cardiacos a amelia ema andrade adan ema andrade gregorio rodrigez gonzalez erick ema andrade romelia ema jise andrade ulices rodrigez gonzalez y todo tijuana bc mexican 
 La idea del programa es preguntar al usuario el género de las personas que desea revisar y si han presentado un ataque al corazón.
 Una vez se tiene está información se aplican varios filtros relacionados a otros factores como la edad, el tipo de dieta y si presentan diabetes.
 Esto con el fin de generar una grafica y ver la relación que tienen con su estado de fumadores.
